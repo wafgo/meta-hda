@@ -8,7 +8,7 @@ PV = "${LINUX_VERSION}${LINUX_VERSION_EXTENSION}+git${SRCPV}"
 PROVIDES = "linux-hda"
 
 SRC_URI = " \
-		https://github.com/wafgo/linux-kernel-custom-hw-uio \
+		git://github.com/wafgo/linux-kernel-custom-hw-uio;protocol=git \
 		"
 
 #SRC_URI = " \
