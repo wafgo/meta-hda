@@ -1,4 +1,4 @@
-SUMMARY = "Opencv : The Open Computer Vision Library"
+SUMMARY = "libuvc, library for the access to usb video class devices from userspace"
 SECTION = "libs"
 
 LICENSE = "GPLv2"
